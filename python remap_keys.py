@@ -7,5 +7,4 @@ keyboard.remap_key('a', '`')
 keyboard.remap_key('`', 'a')
 
 # جعل البرنامج يعمل باستمرار حتى يتم إيقافه
-keyboard.wait('esc')  # اضغط على زر ESC للخروج من البرنامجششش
-
+keyboard.wait('esc')  # اضغط على زر ESC للخروج من البرنامج
